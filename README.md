@@ -1,19 +1,19 @@
 <h1 align="center">Hello🤗🎉, I'm Oamen Modupe</h1>
-<h3 align="center">A passionate early career data scientist from Nigeria</h3>
+<h3 align="center">An experienced data scientist</h3>
 
 <p align="left"> <a href="https://twitter.com/theeenah" target="blank"><img src="https://img.shields.io/twitter/follow/theeenah?logo=twitter&style=for-the-badge" alt="theeenah" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning and Power BI**
+- 🌱 I’m currently learning: **MLOPs, NLP, and dbt**
 
 - 👨‍💻 Some of my projects are available at [https://limey.io/my_portfolio](https://limey.io/my_portfolio)
 
 - 📝 I regularly write articles on [https://oamenmodupe.hashnode.dev/exploratory-data-analysis-with-python](https://oamenmodupe.hashnode.dev/exploratory-data-analysis-with-python)
 
-- 💬 Ask me about **Python, pandas, SQL, Numpy, Scikit-Learn**
+- 💬 Ask me about **Python, SQL, data analysis, feature engineering, machine learning, database management**
 
 - 📫 How to reach me **Oamenmodupe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17pLpgxKQ2fk5srYs_iHfd3gjMRB2f5t9/view?usp=drivesdk](https://drive.google.com/file/d/17pLpgxKQ2fk5srYs_iHfd3gjMRB2f5t9/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RmFtSOI97KbBxzHm90kITz_71LyyzGd0/view?usp=drive_link)
 
 - ⚡ Fun fact **I love puppies.**
 
