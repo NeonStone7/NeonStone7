@@ -3,19 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/theeenah" target="blank"><img src="https://img.shields.io/twitter/follow/theeenah?logo=twitter&style=for-the-badge" alt="theeenah" /></a> </p>
 
-- 🌱 I’m currently learning: **MLOPs, NLP, and dbt**
+- 🌱 I’m currently learning: **MLOPs, NLP, analytics engineering, and dbt**
 
 - 👨‍💻 Some of my projects are available at [https://limey.io/my_portfolio](https://limey.io/my_portfolio)
 
-- 📝 I regularly write articles on [https://oamenmodupe.hashnode.dev/exploratory-data-analysis-with-python](https://oamenmodupe.hashnode.dev/exploratory-data-analysis-with-python)
+- 📝 I regularly write articles on [Medium](https://medium.com/@oamenmodupe)
 
-- 💬 Ask me about **Python, SQL, data analysis, feature engineering, machine learning, database management**
+- 💬 Ask me about **Python, SQL, data analysis, analytics engineering, feature engineering, machine learning, database management**
 
 - 📫 How to reach me **Oamenmodupe@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RmFtSOI97KbBxzHm90kITz_71LyyzGd0/view?usp=drive_link)
-
-- ⚡ Fun fact **I love puppies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
