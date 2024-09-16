@@ -1,5 +1,5 @@
 <h1 align="center">Hello🤗🎉, I'm Oamen Modupe</h1>
-<h3 align="center">An experienced data scientist</h3>
+<h3 align="center">An experienced data professional</h3>
 
 <p align="left"> <a href="https://twitter.com/theeenah" target="blank"><img src="https://img.shields.io/twitter/follow/theeenah?logo=twitter&style=for-the-badge" alt="theeenah" /></a> </p>
 
